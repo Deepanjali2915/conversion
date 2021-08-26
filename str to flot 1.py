@@ -1,0 +1,3 @@
+# var12="deepu"
+# var13=float(var12)
+# string could not convert in float...

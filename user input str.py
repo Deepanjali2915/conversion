@@ -1,0 +1,7 @@
+var21=input("deepu")
+var22=input("sharma")
+print(type(var21))
+print(type(var22))
+print(var22+var21)
+print(type(var21+var22))
+print(int(var21))
